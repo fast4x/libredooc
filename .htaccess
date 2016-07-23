@@ -1,0 +1,2 @@
+RewriteEngine on
+RewriteRule ^home/(.*) files/index.php?f=$1

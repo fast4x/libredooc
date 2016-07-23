@@ -1,0 +1,4 @@
+<FilesMatch "\.*$">
+Allow from lab.rinorusso.it
+Deny from all
+</FilesMatch>

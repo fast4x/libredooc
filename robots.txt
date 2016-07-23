@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /config/
+Disallow: /views/
+Disallow: /~files/
+Disallow: /ajax/
+Disallow: /classes/
+Disallow: /controllers/
+Disallow: /img/
+Disallow: /libraries/
+Disallow: /ViewerJS/
